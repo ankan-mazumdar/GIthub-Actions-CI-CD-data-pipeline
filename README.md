@@ -2,6 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/5fdbe965-55bc-49db-812e-bb6741f4189e)
 
+
 ![image](https://github.com/user-attachments/assets/6264087c-f6b8-4254-ba4d-4b5a0ea09b03)
 
 
@@ -16,6 +17,7 @@ Scheduling jobs with cron expressions in GitHub Actions.
 Implementing Python scripts to automate data-related tasks.
 
 ![image](https://github.com/user-attachments/assets/4ce14483-ab55-4093-9f75-f132a3972583)
+
 
 ![image](https://github.com/user-attachments/assets/10fe3cd6-57a2-4267-b048-5b8f9fa93077)
 
@@ -58,7 +60,9 @@ Define environment variables required for the scripts.
 ## GitHub Actions Setup
 1. Creating a Workflow
 create the .github/workflows/data-pipeline.yml file.
+
 ![image](https://github.com/user-attachments/assets/7e257038-b3ef-4822-b0fa-5204481dfd21)
+
 
 Define the workflow with the following key elements:
 
@@ -93,7 +97,9 @@ jobs:
 
 ## 2. Repository Secrets
 Configure secrets in the repository settings if pipeline requires sensitive information like API keys.
+
 ![image](https://github.com/user-attachments/assets/ccc2f61e-1572-412e-9a0a-c7aa342d89c7)
+
 ![image](https://github.com/user-attachments/assets/d5a100b5-dcc4-4d8e-9a38-01b90af79f3d)
 
 ![image](https://github.com/user-attachments/assets/f4baee6a-9cf1-4c05-9d6b-8ef62062d274)
@@ -128,3 +134,6 @@ Check the Actions tab in your GitHub repository to monitor the workflow's progre
 Monitoring and Debugging
 Workflow Logs: Monitor the execution logs in the GitHub Actions interface.
 Error Handling: If errors occur, the logs will provide details to help you debug.
+
+![image](https://github.com/user-attachments/assets/dfce1851-32a5-4518-a65a-761c87261a05)
+
